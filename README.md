@@ -24,8 +24,8 @@
 - Feel free to open issues in my repos, send a pull request or just say hi!
 
 ## 🛠 Tools & Tech I Use  
-- **Languages**: C#, Python, C++, JavaScript  
-- **Frameworks / Platforms**: .NET, Unity (if relevant), React/Vue (if web), TensorFlow/PyTorch (if AI)  
+- **Languages**: Dart,Python, C++, JavaScript  
+- **Frameworks / Platforms**: .NET, Unity (if relevant), React/Vue (if web), TensorFlow/PyTorch (if AI),Flutter  
 - **Databases & tooling**: SQL/NoSQL, Git & GitHub, CLI tools, VS Code/Visual Studio  
 
 ## 📁 Featured Repositories  
