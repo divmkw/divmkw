@@ -1,51 +1,65 @@
-# Hi there 👋 I’m Divyesh (aka divmkw)
+<div align="center">
+  <h1>Hi there, I'm Divyesh Makwana 👋</h1>
+  <p><strong>Mobile Application Engineer & Full-Stack Developer</strong></p>
 
-## 🚀 About Me  
-- I’m passionate about **AI**, **C#**, and software engineering.  
-- Currently learning: **C++**, **Python**, and data structures & algorithms.  
-- Keen to collaborate on projects involving machine learning, full-stack development or interesting coding challenges.  
-- Drop me a line if you’d like to work together or just chat code!
-
-## 🔭 I’m Working On  
-- 🧠 Ongoing projects include:  
-  - A morning-routine tracker app (for healthy habits)  
-  - A movie-classification model using ML  
-  - Web utility tools in JavaScript  
-- Reviewing & improving older repos to keep things sharp.
-
-## 👯 I’m Open To  
-- Collaboration on open-source projects (especially in AI/ML, C#, Python).  
-- Mentorship or peer code review — happy to exchange ideas.  
-- Networking with other developers and tech enthusiasts.
-
-## 📫 How to Reach Me  
-- Email: **makwanadivyesh223@gmail.com**  
-- GitHub: [github.com/divmkw](https://github.com/divmkw)  
-- Feel free to open issues in my repos, send a pull request or just say hi!
-
-## 🛠 Tools & Tech I Use  
-- **Languages**: Dart,Python, C++, JavaScript  
-- **Frameworks / Platforms**: .NET, Unity (if relevant), React/Vue (if web), TensorFlow/PyTorch (if AI),Flutter  
-- **Databases & tooling**: SQL/NoSQL, Git & GitHub, CLI tools, VS Code/Visual Studio  
-
-## 📁 Featured Repositories  
-Here are some of my highlighted projects:  
-- [morning_routine_master](https://github.com/divmkw/morning_routine_master) — A lightweight app to build consistent morning habits.  
-- [movie-classification-model](https://github.com/divmkw/movie-classification-model) — Machine learning model for classifying films.  
-- [PicturePulse](https://github.com/divmkw/PicturePulse) — A JavaScript project for image based interaction/tools.  
-- [Blogvault](https://github.com/divmkw/Blogvault) — Utility project for bloggers/web dev.  
-- More repos on my GitHub profile!
-
-## 🌟 Fun Fact  
-- I believe small daily habits lead to big changes.  
-- I enjoy solving algorithmic problems in my spare time.  
-- I’m always curious about the intersection of AI + creativity.
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:makwanadivyesh223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-Thanks for stopping by — feel free to explore my work and connect any time!  
+### 🚀 About Me
 
-<!---
-divmkw/divmkw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📱 Specialized in building scalable, responsive cross-platform mobile apps with **Flutter & Dart**.
+- 🛠️ Creator of developer utilities, packages, and AI-powered mobile experiences.
+- 🌐 Experienced with full-stack web and backend development (**Node.js, Express, REST APIs**).
+- 🎯 Focused on clean architecture, state management (Bloc/Provider/Riverpod), and fluid UI/UX.
+- 💬 Ask me about **Flutter, Mobile App Architecture, and Dart package development**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Mobile & Languages**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+#### **Backend, Cloud & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+</p>
+
+#### **Tools & Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divmkw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divmkw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by Divyesh Makwana</sub>
+</div>
