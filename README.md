@@ -42,9 +42,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🚀 **[`handy_flutter`](https://github.com/divmkw/handy_flutter)** | Engine & reusable components designed for accelerated Flutter app development. | `Flutter` `Dart` `Package` |
-| 🤖 **[`nvidiachat`](https://github.com/divmkw/nvidiachat)** | Intelligent chat application powered by NVIDIA AI APIs. | `Flutter` `Dart` `AI/LLM` |
-| 📸 **[`PicturePulse`](https://github.com/divmkw/PicturePulse)** | Responsive visual gallery and image curation application. | `Flutter` `Dart` `Mobile` |
+| **[`handy_flutter`](https://github.com/divmkw/handy_flutter)** | Engine & reusable components designed for accelerated Flutter app development. | `Flutter` `Dart` `Package` |
+| **[`nvidiachat`](https://github.com/divmkw/nvidiachat)** | Intelligent chat application powered by NVIDIA AI APIs. | `Flutter` `Dart` `AI/LLM` |
+| **[`PicturePulse`](https://github.com/divmkw/PicturePulse)** | Responsive visual gallery and image curation application. | `Flutter` `Dart` `Mobile` |
 
 ---
 
